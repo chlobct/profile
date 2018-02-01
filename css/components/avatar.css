@@ -1,0 +1,12 @@
+.avatar {
+  border-radius: 50%;
+  border: 1px solid #eee;
+  width: 50px;
+}
+.avatar--lg {
+  width: 200px;
+}
+.avatar--sm {
+  width: 20px;
+}
+

@@ -1,0 +1,27 @@
+.banner {
+    display: flex;
+    height: 100vh;
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.banner h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.banner p {
+  font-size: 20px;
+}
+
+.banner-content {
+  font-size: 30px;
+  list-style: none;
+  text-align: center;
+  display: inline;
+  background: rgba(80, 80, 80, 0.6);
+}
